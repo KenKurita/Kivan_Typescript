@@ -6,8 +6,8 @@ export const NavBar = () => {
   return (
   <div>
     <ul id="nav-ul">
-    <li id="nav-li"><Link to="/SearchProduct">Search Product</Link></li>
-    <li id="nav-li"><Link to="/createProduct">Create Product</Link></li>
+    <li id="nav-li"><Link to="/search_product">Search Product</Link></li>
+    <li id="nav-li"><Link to="/create_product">Create Product</Link></li>
     </ul>
     <Outlet/>
   </div>

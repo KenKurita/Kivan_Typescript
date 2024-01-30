@@ -11,7 +11,7 @@ export const SearchProduct = () => {
   const [searchTermValue, setSearchTermValue] = useState('');
   return (
     <div>
-      yeet
+      search product
     </div>
   )
 }
